@@ -1,6 +1,7 @@
 # PBO
 #Latihan 1
 ![Alt Text](https://github.com/yuliusjati/PBO/blob/master/Screenshot%20(118).png)
+![Alt Text](https://github.com/yuliusjati/PBO/blob/master/Screenshot%20(126).png)
 #Latihan 2
 ![Alt Text](https://github.com/yuliusjati/PBO/blob/master/Screenshot%20(119).png)
 #Latihan 3
